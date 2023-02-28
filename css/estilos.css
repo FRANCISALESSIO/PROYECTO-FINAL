@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+
+/*IMAGEN PERFIL
+HACER CON JAVA PARA CAMBIAR LA FOTO AL HACER CLICK*/
+img {
+   max-width:300px; 
+   height:auto;
+   border-style: groove; 
+}
+ 
+
+/*CV*/
+h1 {
+    text-align: right;
+    color: rgb(80, 70, 70)
+}
+
+ /*NOMBRE Y APELLIDO*/
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+/*ÁREAS*/
+h4 {
+    background-color: rgb(243, 106, 27);
+    margin: 10px;
+    border: 1px dotted black;
+    padding: 10px;    
+    font-weight: bold;
+}
+
+hr {
+    color: rgb(3, 9, 41);
+}
+
